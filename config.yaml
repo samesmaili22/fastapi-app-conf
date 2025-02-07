@@ -1,0 +1,11 @@
+fastapi:
+  title: YOUR-API-TITLE
+  version: YOUR-API-VERSION
+  openapi_prefix: /YOUR-OPENAPI-PREFIX
+  assets_url: /YOUR-OPENAPI-PREFIX/assets
+  openapi_url: /YOUR-OPENAPI-PREFIX/openapi.json
+  docs_url: /YOUR-OPENAPI-PREFIX/docs
+  swagger_css_url: /YOUR-OPENAPI-PREFIX/assets/swagger-ui.css
+  swagger_js_url: /YOUR-OPENAPI-PREFIX/assets/swagger-ui-bundle.js
+  swagger_favicon_url: ""
+  origins: "*"
